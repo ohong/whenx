@@ -8,6 +8,8 @@ The emergence of autonomous agents like AutoGPT and BabyAGI piqued my interest. 
 
 The shortcomings of existing models lit a spark to build something new. I decided to create my own system, a system of event-driven autonomous agents. I call it WhenX.
 
+The system's goal is to create alerts in the form of  "When X happens, then do Y". In this initial version, we are only supporting email alerts in the form of "When X happens, send me an email report". 
+
 ### **This is an early experimental project with many bugs! I am still working on it.**
 
 # Architecture
