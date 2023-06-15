@@ -4,11 +4,11 @@
 
 The Semantic Web has long intrigued me. The idea of transforming the web into a comprehensible database accessible to artificial intelligence became a foundation for my continued exploration. The notion of creating a smart alert system, a digital sentinel standing guard over the information chaos of the internet, was an application that continuously sparked my curiosity. Imagine a robot that ceaselessly trawls the vast ocean of the web, alerting you to the occurrence of a specific event, say, the release of a new book. This is a dream I have been chasing for years.
 
-The emergence of autonomous agents like AutoGPT and BabyAGI piqued my interest. These systems represented a promising new direction for AI technology. I decided to experiment with these tools, with the aspiration of realizing my dream of a smart alert system. My excitement, however, was quickly tempered. These systems, while advanced, operate with a focus on a goal and its subsequent division into steps. This is a far cry from the continuous, vigilant monitoring system I envisioned. Much to my disappointment, I found their architecture ill-suited for such a task. You can make it work some times but not reliably. 
+The emergence of autonomous agents like AutoGPT and BabyAGI piqued my interest. These systems represented a promising new direction for AI technology. I decided to experiment with these tools, with the aspiration of realizing my dream of a smart alert system. My excitement, however, was quickly tempered. These systems, while advanced, operate with a focus on a goal and its subsequent division into steps. This is a far cry from the continuous, vigilant monitoring system I envisioned. Much to my disappointment, I found their architecture ill-suited for such a task. You can make it work sometimes but not reliably. 
 
 The shortcomings of existing models lit a spark to build something new. I decided to create my own system, a system of event-driven autonomous agents. I call it WhenX.
 
-### **This a early experimental project with many bugs! I am still working on it.**
+### **This is an early experimental project with many bugs! I am still working on it.**
 
 # Architecture
 
