@@ -1,4 +1,4 @@
-# WhenX
+# WhenX: Event-Driven Autonomous Agents
 
 ![bot2](assets/bot2.png)
 
