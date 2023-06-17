@@ -34,7 +34,7 @@ $ poetry install
 ```
 
 ```Bash
-$ poetry run alemic upgrade head
+$ poetry run alembic upgrade head
 ```
 
 Copy the .env.example file to .env and fill in the values. We are using the [Resend](https://resend.com/) service 
